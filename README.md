@@ -1,1 +1,1 @@
-Snake loading indicator for the year of snake
+## Snakeicator is here!
